@@ -78,6 +78,3 @@ The goal of this project was to analyze Netflix’s content catalog (movies + TV
 * Negotiate shorter licensing delays (<12 months) for high-value titles.
 
 
-
-Do you want me to also make this README **more eye-catching** with emojis, badges (Python, Jupyter, Pandas), and a banner-style project description at the top like many GitHub projects do?
-
